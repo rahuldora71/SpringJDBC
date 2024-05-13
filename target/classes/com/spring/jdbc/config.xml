@@ -32,4 +32,7 @@
 	<property name="jdbcTemplate" ref="jdbcTemplate"/>
 	</bean>
 
+
+
 </beans>
+<!--  Uncomment if we want to config our java program with xml  -->
